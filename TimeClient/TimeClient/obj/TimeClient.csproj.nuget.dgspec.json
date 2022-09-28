@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\TQuality\\t.haybullin\\DataBase\\TimeClient\\TimeClient\\TimeClient.csproj": {}
+    "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\LinusServicesCW1\\TimeClient\\TimeClient\\TimeClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\TQuality\\t.haybullin\\DataBase\\TimeClient\\TimeClient\\TimeClient.csproj": {
+    "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\LinusServicesCW1\\TimeClient\\TimeClient\\TimeClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\TQuality\\t.haybullin\\DataBase\\TimeClient\\TimeClient\\TimeClient.csproj",
+        "projectUniqueName": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\LinusServicesCW1\\TimeClient\\TimeClient\\TimeClient.csproj",
         "projectName": "TimeClient",
-        "projectPath": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\TQuality\\t.haybullin\\DataBase\\TimeClient\\TimeClient\\TimeClient.csproj",
+        "projectPath": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\LinusServicesCW1\\TimeClient\\TimeClient\\TimeClient.csproj",
         "packagesPath": "C:\\Users\\tagir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\TQuality\\t.haybullin\\DataBase\\TimeClient\\TimeClient\\obj\\",
+        "outputPath": "C:\\Users\\tagir\\OneDrive\\Документы\\GitHub\\LinusServicesCW1\\TimeClient\\TimeClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tagir\\AppData\\Roaming\\NuGet\\NuGet.Config",

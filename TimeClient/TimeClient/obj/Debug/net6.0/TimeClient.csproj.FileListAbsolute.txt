@@ -1,0 +1,15 @@
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\bin\Debug\net6.0\TimeClient.exe
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\bin\Debug\net6.0\TimeClient.deps.json
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\bin\Debug\net6.0\TimeClient.runtimeconfig.json
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\bin\Debug\net6.0\TimeClient.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\bin\Debug\net6.0\TimeClient.pdb
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.csproj.AssemblyReference.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfoInputs.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.AssemblyInfo.cs
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.csproj.CoreCompileInputs.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\refint\TimeClient.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.pdb
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\TimeClient.genruntimeconfig.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeClient\TimeClient\obj\Debug\net6.0\ref\TimeClient.dll

@@ -17,7 +17,7 @@ public static class Program
             Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
             socket.Connect(ipPoint);
- 
+
             var data = new byte[256];
             var builder = new StringBuilder();
             int bytes;
@@ -36,6 +36,5 @@ public static class Program
         {
             Console.WriteLine(ex.Message);
         }
-        Console.Read();
     }
 }

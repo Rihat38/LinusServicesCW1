@@ -1,0 +1,15 @@
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.exe
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.deps.json
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.runtimeconfig.json
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\bin\Debug\net6.0\TimeServer.pdb
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.csproj.AssemblyReference.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.AssemblyInfoInputs.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.AssemblyInfo.cs
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.csproj.CoreCompileInputs.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\refint\TimeServer.dll
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.pdb
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\TimeServer.genruntimeconfig.cache
+C:\Users\tagir\OneDrive\Документы\GitHub\LinusServicesCW1\TimeServer\TimeServer\obj\Debug\net6.0\ref\TimeServer.dll
