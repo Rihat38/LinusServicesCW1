@@ -20,15 +20,18 @@ static class Program
             listenSocket.Listen(10);
 
             Console.WriteLine("Сервер запущен. Ожидание подключений...");
+            while (true)
+            {
 
-            Socket handler = listenSocket.Accept();
-            
-            string message = DateTime.Now.ToString("g");
-            var data = Encoding.Unicode.GetBytes(message);
-            handler.Send(data);
+                Socket handler = listenSocket.Accept();
 
-            handler.Shutdown(SocketShutdown.Both);
-            handler.Close();
+                string message = DateTime.Now.ToString("g");
+                var data = Encoding.Unicode.GetBytes(message);
+                handler.Send(data);
+
+                handler.Shutdown(SocketShutdown.Both);
+                handler.Close();
+            }
         }
         catch (Exception ex)
         {

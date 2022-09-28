@@ -8,16 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbaae485-29b0-4977-b196-1050b33744c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../TimeClient/.idea/.idea.TimeClient/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/.idea/.idea.TimeClient/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/Debug/net6.0/TimeClient.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/Debug/net6.0/TimeClient.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/Debug/net6.0/TimeClient.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/Debug/net6.0/TimeClient.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/TimeClient.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/TimeClient.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TimeClient/TimeClient/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeServer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TimeServer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TimeServer/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +27,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="TimeServer" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -77,6 +63,7 @@
       <updated>1664358679347</updated>
       <workItem from="1664358694094" duration="15000" />
       <workItem from="1664360443626" duration="1269000" />
+      <workItem from="1664396040433" duration="90000" />
     </task>
     <servers />
   </component>
@@ -86,6 +73,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
